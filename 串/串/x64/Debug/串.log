@@ -1,0 +1,5 @@
+﻿  test8_12.cpp
+D:\桌面\C++练习\串\串\test8_12.cpp(9,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\桌面\C++练习\串\串\test8_12.cpp(10,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\桌面\C++练习\串\串\test8_12.cpp(27): warning C4715: “match”: 不是所有的控件路径都返回值
+  串.vcxproj -> D:\桌面\C++练习\串\x64\Debug\串.exe
